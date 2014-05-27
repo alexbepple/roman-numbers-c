@@ -1,0 +1,10 @@
+# Eclipse
+/Debug
+/Release
+
+# WAF
+/.lock-waf*
+/.waf-*
+/waf-*
+
+/build
